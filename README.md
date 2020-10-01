@@ -1,6 +1,6 @@
 # Real-Time-Face-Recognition-Using-IOT
 IOT BASED REAL TIME FACE RECOGNITION ANDROID APPLICATION with Python and IBM Cloud using Raspberry pi, MIT App Inventor and OpenCV.
-Real Time Face Recognition
+Real Time Face Recognition.
 
 Project Overview:
 
@@ -10,25 +10,25 @@ Standards:
 
 •	OpenCV
 
-•	IBM Cloud
+•  IBM Cloud
 
 •	Node-Red
 
-•	MIT App Inventor
+•  MIT App Inventor
 
 Objectives:
 
 •	Installing OpenCV.
 
-•	Creating IBM Cloud Services. 
+•  Creating IBM Cloud Services. 
 
 •	Getting Service Credentials From IBM.
 
-•	Creating Node-Red Flow.
+•  Creating Node-Red Flow.
 
 •	Creating MIT-App.
 
-•	Establishing Communication Between These Services.
+•  Establishing Communication Between These Services.
 
 Requirements/Task(s):
 
